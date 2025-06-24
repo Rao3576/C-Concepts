@@ -44,3 +44,20 @@ union – Union
 
 class – Class
 
+🏷️ What is a Class?
+
+A class is a user-defined data type that serves as a blueprint for objects.
+It groups data members and functions that operate on those data.
+
+🕒 Compile-Time vs Run-Time
+
+Phase	Description
+
+Compile Time
+
+The stage where the source code is translated into object code (machine-level code). Errors like syntax and type checking are caught here.
+
+Run Time
+
+The phase when the compiled program is executed. Memory allocation, user input, and dynamic operations happen here.
+
