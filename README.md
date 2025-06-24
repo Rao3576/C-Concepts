@@ -1,4 +1,4 @@
-# C-Concepts
+# Basic concept of C++
 📌 What is C++?
 
 C++ is a statically typed, high-performance programming language that supports both procedural and object-oriented programming paradigms.
